@@ -1,18 +1,78 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@zitterorg/natus-eos-vel",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "scripts": {},
+  "author": "zitterfe",
   "license": "MIT",
+  "dependencies": {
+    "@zitterorg/accusantium-reprehenderit-quisquam": "^1.0.2",
+    "@zitterorg/adipisci-quae-eius": "^1.1.1",
+    "@zitterorg/aspernatur-pariatur-occaecati": "^1.1.1",
+    "@zitterorg/at-esse-dolorum": "^1.1.1",
+    "@zitterorg/at-esse-odit": "^1.0.2",
+    "@zitterorg/cum-ipsum-beatae": "^1.1.1",
+    "@zitterorg/dolorem-quibusdam-dicta": "^1.0.2",
+    "@zitterorg/doloremque-ut-omnis": "^2.0.1",
+    "@zitterorg/dolores-perspiciatis-rem": "^1.0.2",
+    "@zitterorg/doloribus-quidem-enim": "^1.0.2",
+    "@zitterorg/est-sunt-quos": "^1.0.2",
+    "@zitterorg/eum-veritatis-placeat": "^1.0.2",
+    "@zitterorg/fluffy-waddle": "^2.3.6",
+    "@zitterorg/glowing-barnacle": "^1.1.5",
+    "@zitterorg/illum-perferendis-consectetur": "^1.1.1",
+    "@zitterorg/impedit-ex-praesentium": "^1.1.1",
+    "@zitterorg/inventore-at-sit": "^1.0.2",
+    "@zitterorg/itaque-nisi-veritatis": "^1.1.1",
+    "@zitterorg/iure-consequatur-nostrum": "^1.0.2",
+    "@zitterorg/libero-optio-dolorem": "^1.0.2",
+    "@zitterorg/maiores-commodi-ea": "^1.0.2",
+    "@zitterorg/minus-itaque-odit": "^1.0.2",
+    "@zitterorg/neque-repellendus-ut": "^1.0.2",
+    "@zitterorg/omnis-delectus-deserunt": "^1.1.1",
+    "@zitterorg/probable-octo": "^1.2.5",
+    "@zitterorg/psychic-adventure": "^1.1.0",
+    "@zitterorg/quibusdam-sit-qui": "^1.1.1",
+    "@zitterorg/reiciendis-minima-excepturi": "^2.0.1",
+    "@zitterorg/upgraded-fishstick": "^1.1.2",
+    "@zitterorg/vel-at-tenetur": "^1.0.2",
+    "analsorhost-simple-bs": "^1.0.1",
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-assi-animation": "^1.0.1",
+    "simple-prompts-web3": "^1.0.1"
+  },
+  "keywords": [
+    "Object.is",
+    "postcss",
+    "deepclone",
+    "positive",
+    "promises",
+    "gradients css3",
+    "reuse",
+    "buffer",
+    "ES2023",
+    "typedarray",
+    "HyBi",
+    "protocol-buffers",
+    "optimist",
+    "consume",
+    "get",
+    "Object.fromEntries",
+    "classnames",
+    "stdlib",
+    "matches",
+    "_.extend"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/zitterorg/natus-eos-vel.git"
   },
-  "dependencies": {
-    
+  "homepage": "https://github.com/zitterorg/natus-eos-vel/#readme",
+  "bugs": {
+    "url": "https://github.com/zitterorg/natus-eos-vel/issues"
   }
 }
